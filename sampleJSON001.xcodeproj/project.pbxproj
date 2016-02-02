@@ -14,6 +14,7 @@
 		1BBA15001C608724002AC1F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BBA14FE1C608724002AC1F7 /* LaunchScreen.storyboard */; };
 		1BBA150B1C608724002AC1F7 /* sampleJSON001Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BBA150A1C608724002AC1F7 /* sampleJSON001Tests.swift */; };
 		1BBA15161C608724002AC1F7 /* sampleJSON001UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BBA15151C608724002AC1F7 /* sampleJSON001UITests.swift */; };
+		1BBA15241C60877F002AC1F7 /* json.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1BBA15231C60877F002AC1F7 /* json.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1BBA15111C608724002AC1F7 /* sampleJSON001UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleJSON001UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BBA15151C608724002AC1F7 /* sampleJSON001UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleJSON001UITests.swift; sourceTree = "<group>"; };
 		1BBA15171C608724002AC1F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BBA15231C60877F002AC1F7 /* json.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = json.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1BBA14FC1C608724002AC1F7 /* Assets.xcassets */,
 				1BBA14FE1C608724002AC1F7 /* LaunchScreen.storyboard */,
 				1BBA15011C608724002AC1F7 /* Info.plist */,
+				1BBA15231C60877F002AC1F7 /* json.txt */,
 			);
 			path = sampleJSON001;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1BBA15241C60877F002AC1F7 /* json.txt in Resources */,
 				1BBA15001C608724002AC1F7 /* LaunchScreen.storyboard in Resources */,
 				1BBA14FD1C608724002AC1F7 /* Assets.xcassets in Resources */,
 				1BBA14FB1C608724002AC1F7 /* Main.storyboard in Resources */,
